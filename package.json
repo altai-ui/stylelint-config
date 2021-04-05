@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": false,
   "author": "Qvant Frontend team",
-  "license": "apache-2.0",
+  "license": "Apache-2.0",
   "prettier": "@qvant/prettier-config",
   "scripts": {
     "prettier": "prettier --check --ignore-unknown '**/*'",
@@ -25,5 +25,18 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "stylelint": "^13.12.0"
-  }
+  },
+  "description": "A stylelint config we use for our projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qvant-lab/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/Qvant-lab/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/Qvant-lab/stylelint-config#readme"
 }
