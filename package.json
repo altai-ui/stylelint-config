@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@qvant/prettier-config": "^0.0.1",
-    "husky": "^7.0.1",
+    "husky": "^7.0.2",
     "lint-staged": "^11.1.2",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1"
