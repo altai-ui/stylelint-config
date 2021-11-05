@@ -1,8 +1,10 @@
 {
-  "extends": ["../css/base.json"],
-  "plugins": ["stylelint-scss"],
+  "extends": ["../css/base.json", "stylelint-config-standard-scss"],
   "rules": {
-    "at-rule-no-unknown": null,
-    "scss/at-rule-no-unknown": true
+    "selector-class-pattern": null,
+    "selector-pseudo-element-no-unknown": [
+      true,
+      { "ignorePseudoElements": ["v-deep"] }
+    ]
   }
 }
