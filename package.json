@@ -44,5 +44,9 @@
   "bugs": {
     "url": "https://github.com/Qvant-lab/stylelint-config/issues"
   },
-  "homepage": "https://github.com/Qvant-lab/stylelint-config#readme"
+  "homepage": "https://github.com/Qvant-lab/stylelint-config#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
 }
