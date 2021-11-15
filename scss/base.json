@@ -6,5 +6,11 @@
       true,
       { "ignorePseudoElements": ["v-deep"] }
     ]
-  }
+  },
+  "overrides": [
+    {
+      "files": ["**/*.{html,vue,svelte}"],
+      "customSyntax": "postcss-html"
+    }
+  ]
 }
