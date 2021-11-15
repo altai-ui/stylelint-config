@@ -1,5 +1,9 @@
 # Stylelint config
 
+[![npm][npm-img]][npm-url]
+![downloads][downloads-img]
+![stylelint][stylelint-img]
+
 ## Installation
 
 ```bash
@@ -58,3 +62,8 @@ We provide a config for both CSS and SCSS. You can choose which one you would li
   // ...
 }
 ```
+
+[npm-url]: https://npmjs.com/package/@qvant/stylelint-config
+[npm-img]: https://img.shields.io/npm/v/@qvant/stylelint-config.svg
+[downloads-img]: https://img.shields.io/npm/dm/@qvant/stylelint-config
+[stylelint-img]: https://img.shields.io/badge/stylelint-14.x-brightgreen
