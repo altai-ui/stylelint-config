@@ -1,6 +1,6 @@
 {
   "name": "@qvant/stylelint-config",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "author": "Qvant Frontend team",
   "license": "Apache-2.0",
