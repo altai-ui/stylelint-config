@@ -313,10 +313,10 @@
   dependencies:
     "@octokit/openapi-types" "^11.2.0"
 
-"@qvant/prettier-config@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@qvant/prettier-config/-/prettier-config-0.0.1.tgz#8724152acb769255a4cf56b51ee5363b781865cb"
-  integrity sha512-a+Tojb/3Y6v9fgdy+qKBaV/xxsGFT6Ss7WE3FmAneadJVQTAVJWwHIa+znGyLhG75UL3ed+oIXWnh3yLmV8cVQ==
+"@qvant/prettier-config@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@qvant/prettier-config/-/prettier-config-0.0.2.tgz#64277886afcd8c28541aed0993e182050afa769f"
+  integrity sha512-rpjIALVrIW25Wa6npfDsLr3AZgZixvrjNCQ/H6xAiHRpLOJgIUWU5ruhGdEYYJMpjsWjsz94fTeQkz5gHVJYWQ==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
