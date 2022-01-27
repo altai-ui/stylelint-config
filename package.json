@@ -27,7 +27,7 @@
     "@commitlint/config-conventional": "^16.0.0",
     "@qvant/prettier-config": "^0.0.2",
     "husky": "^7.0.4",
-    "lint-staged": "^12.1.7",
+    "lint-staged": "^12.3.1",
     "prettier": "^2.5.1",
     "release-it": "^14.12.3",
     "stylelint": "^14.3.0"
