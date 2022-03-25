@@ -20,17 +20,17 @@
     "stylelint-order": "^5.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^14.6.0"
+    "stylelint": "^14.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
-    "@qvant/prettier-config": "^0.0.2",
+    "@qvant/prettier-config": "^0.1.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.7",
-    "prettier": "^2.6.0",
+    "prettier": "^2.6.1",
     "release-it": "^14.13.1",
-    "stylelint": "^14.6.0"
+    "stylelint": "^14.6.1"
   },
   "description": "A stylelint config we use for our projects",
   "repository": {
