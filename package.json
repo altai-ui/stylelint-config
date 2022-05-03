@@ -20,7 +20,7 @@
     "stylelint-order": "^5.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^14.7.1"
+    "stylelint": "^14.8.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
@@ -30,7 +30,7 @@
     "lint-staged": "^12.4.0",
     "prettier": "^2.6.2",
     "release-it": "^14.14.2",
-    "stylelint": "^14.7.1"
+    "stylelint": "^14.8.1"
   },
   "description": "A stylelint config we use for our projects",
   "repository": {
