@@ -9,6 +9,10 @@
       true,
       { "ignorePseudoElements": ["v-deep"] }
     ],
+    "length-zero-no-unit": [
+      true,
+      { "ignore": ["custom-properties"] }
+    ],
     "order/properties-order": [
       { "properties": ["all"] },
       {

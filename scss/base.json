@@ -5,6 +5,10 @@
     "selector-pseudo-class-no-unknown": [
       true,
       { "ignorePseudoClasses": ["deep"] }
+    ],
+    "length-zero-no-unit": [
+      true,
+      { "ignore": ["custom-properties"] }
     ]
   },
   "overrides": [
