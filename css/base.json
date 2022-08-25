@@ -4,12 +4,12 @@
   "rules": {
     "color-named": "never",
     "font-weight-notation": "numeric",
+    "length-zero-no-unit": [true, { "ignore": ["custom-properties"] }],
     "selector-class-pattern": null,
     "selector-pseudo-element-no-unknown": [
       true,
       { "ignorePseudoElements": ["v-deep"] }
     ],
-    "length-zero-no-unit": [true, { "ignore": ["custom-properties"] }],
     "order/properties-order": [
       { "properties": ["all"] },
       {
