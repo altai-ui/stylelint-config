@@ -23,7 +23,7 @@
     "stylelint": "^14.16.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
+    "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.3.0",
     "@qvant/prettier-config": "^0.1.0",
     "husky": "^8.0.2",
